@@ -11,7 +11,7 @@ class MyApp
 
 	public static void myFunc()
 	{
-		System.out.println("MyFunction!");
+		System.out.println("MyFunction!!");
 	}
 }
 
