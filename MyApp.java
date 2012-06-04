@@ -3,7 +3,7 @@ class MyApp
 	public static void main(String[] args)
 	{
 		int a = 99;
-		System.out.println("Hello!");
+		System.out.println("Hello!!");
 		myFunc();
 		AnotherClass myObj = new AnotherClass();
 		myObj.action();
